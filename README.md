@@ -13,37 +13,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌊 [TVSlope](https://github.com/zixunn/TVSlope)**
-*Time-varying river slope in HAND-FIM*
-
-Evaluates static-satellite (SWOT / IRIS-SWORD) vs a new **time-varying gauge slope *S(Q)*** against the FIMBench flood
-benchmark — showing the slope source is a **second-order**, and hydraulic regime a **first-order**, control on
-flood-map skill.
-
-<sub>`Python` · `geopandas` · `rasterio` · `National Water Model` · `HAND-FIM`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ [Transmission_Lines](https://github.com/zixunn/Transmission_Lines)**
-*InSAR deformation risk for the power grid*
-
-Integrates **NASA/JPL OPERA Sentinel-1** vertical land motion with sea-level rise and storm surge to classify the
-deformation risk to Gulf-Coast transmission towers and substations.
-<sub>with the [Milillo Lab](https://github.com/Milillo-lab), UH CEE</sub>
-
-<sub>`Python` · `InSAR / OPERA` · `rasterio` · `PCA / risk classification`</sub>
-
-</td>
-</tr>
-</table>
-
 ### 🛠 Tech stack
 
 <p>
