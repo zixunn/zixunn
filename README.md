@@ -13,12 +13,6 @@
 
 ---
 
-### 👩‍🔬 About me
-
-- 🌊 I work where **satellite remote sensing** meets **hydrology &amp; natural hazards** — turning SWOT, ICESat-2, InSAR, and stream-gauge observations into flood and infrastructure-risk decisions.
-- 🔭 Current research: **time-varying river slope in HAND flood-inundation mapping**, and **InSAR-based deformation risk for the power grid**.
-- 🧰 I care about **reproducible science**: self-contained notebooks, portable pipelines, and publication-quality figures.
-
 ### 🚀 Featured projects
 
 <table>
