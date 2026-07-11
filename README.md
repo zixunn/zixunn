@@ -59,13 +59,6 @@ deformation risk to Gulf-Coast transmission towers and substations.
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zixunn&show_icons=true&include_all_commits=true&hide_border=true&title_color=1f77b4&icon_color=1f77b4" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zixunn&layout=compact&hide_border=true&title_color=1f77b4&langs_count=8" alt="top langs">
-</p>
-
 ### 📫 Reach me
 
 <a href="mailto:emily30823@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
