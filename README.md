@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zixun 👋</h1>
+<h1 align="center">Hi, I'm Zih-Syun 👋</h1>
 
 <p align="center">
 <b>Geospatial &amp; hydrology researcher</b> — remote sensing · satellite altimetry · geodesy · reservoir monitoring · flood-inundation modeling · infrastructure risk
